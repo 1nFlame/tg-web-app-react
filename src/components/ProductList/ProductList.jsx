@@ -13,7 +13,6 @@ const products = [
     {id: '7', title: 'Панама Bucket', price: 1900, description: 'Черный цвет.'},
     {id: '8', title: 'Сумка-авоська', price: 1000 , description: 'Болотный цвет.'},
     {id: '9', title: 'Футболка Regular', price: 2700, description: 'Синий цвет.'},
-    {id: '10', title: 'Шапка Incognito', price: 1300, description: 'Деним цвет.'},
 ]
 
 const getTotalPrice = (items) => {
